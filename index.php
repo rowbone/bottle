@@ -14,3 +14,8 @@
 	function userDel(){
 		
 	}
+
+	
+	function userList(){
+
+	}
