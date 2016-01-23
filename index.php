@@ -6,3 +6,7 @@
 	function userEdit(){
 
 	}
+
+	function userInfo(){
+		
+	}
