@@ -10,3 +10,7 @@
 	function userInfo(){
 		
 	}
+
+	function userDel(){
+		
+	}
